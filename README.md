@@ -7,8 +7,8 @@ TEAM URL:
 
 Team Leader Jeevasurya:https://g.dev/jeevasurya46
 
-Team Member Dhanushkiran:
+Team Member Dhanushkiran:https://g.dev/Dhanushkiran28
 
-Team Member Rishikumar:
+Team Member Rishikumar:https://g.dev/rishikumar02
 
 Team Member Lokeshkumar:
