@@ -1,1 +1,1 @@
-# email clinet
+# A Flexiable Email clinet App
